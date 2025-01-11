@@ -1,4 +1,6 @@
-- This Netflix dashboard provides a comprehensive view of the platform's content, offering insights into the number of movies and TV shows available, their ratings, and genre distribution over time. Key features include:
+This Netflix dashboard provides a comprehensive view of the platform's content, offering insights into the number of movies and TV shows available, their ratings, and genre distribution over time. 
+
+Key features include:
 
 - Content Count Over Time: Displays the yearly release trends for movies and TV shows.
 - Genre Distribution: A breakdown of content by genre, helping identify the most popular genres.
